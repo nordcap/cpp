@@ -1,0 +1,3 @@
+/home/alex/CPP/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/CPP/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir
+/home/alex/CPP/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/edit_cache.dir
