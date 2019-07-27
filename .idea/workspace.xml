@@ -11,38 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b828e34-e86f-427f-881f-f4ea967a8dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.10.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.11.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.12.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.13.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPP" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPP.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="4b828e34-e86f-427f-881f-f4ea967a8dd3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -61,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="338">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -174,7 +143,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
-    <property name="settings.editor.selected.configurable" value="CompDBSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -243,17 +212,17 @@
       <workItem from="1563987326228" duration="1209000" />
       <workItem from="1564067292652" duration="2960000" />
       <workItem from="1564144915665" duration="4281000" />
-      <workItem from="1564240837714" duration="3683000" />
+      <workItem from="1564240837714" duration="4459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34723000" />
+    <option name="totallyTimeSpent" value="35499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1082" height="1925" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2369439" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2369439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,9 +234,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32924107" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19021441" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19021441" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32985157" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32985157" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.3282023" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -495,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        <state relative-caret-position="338">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
