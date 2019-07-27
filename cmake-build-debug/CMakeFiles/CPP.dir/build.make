@@ -57,27 +57,27 @@ include CMakeFiles/CPP.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPP.dir/flags.make
 
-CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o: CMakeFiles/CPP.dir/flags.make
-CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o: ../Введение\ в\ программирование\ (Яндекс)/Цикл\ while/1.5.1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alex/CPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o" -c "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp"
+CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o: CMakeFiles/CPP.dir/flags.make
+CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o: ../Введение\ в\ программирование\ (Яндекс)/Цикл\ while/1.5.14.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/alex/CPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o" -c "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp"
 
-CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" > "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.i"
+CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" > "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.i"
 
-CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" -o "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.s"
+CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" -o "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.s"
 
 # Object files for target CPP
 CPP_OBJECTS = \
-"CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o"
+"CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o"
 
 # External object files for target CPP
 CPP_EXTERNAL_OBJECTS =
 
-CPP: CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o
+CPP: CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o
 CPP: CMakeFiles/CPP.dir/build.make
 CPP: CMakeFiles/CPP.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/alex/CPP/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CPP"

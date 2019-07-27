@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp">
+		<Unit filename="/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp">
 			<Option target="CPP"/>
 		</Unit>
 		<Unit filename="/home/alex/CPP/CMakeLists.txt">

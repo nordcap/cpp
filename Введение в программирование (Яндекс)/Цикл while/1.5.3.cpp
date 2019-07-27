@@ -1,7 +1,5 @@
-
 /*
- *
- * По данному целому числу N распечатайте все квадраты натуральных чисел, не превосходящие N, в порядке возрастания.
+ * По данному числу N распечатайте все целые степени двойки, не превосходящие N, в порядке возрастания.
 
 Формат входных данных
 Вводится натуральное число.
@@ -14,22 +12,27 @@ Sample Input:
 50
 Sample Output:
 
-1 4 9 16 25 36 49
+1 2 4 8 16 32
+
  */
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
 int main(int argc, char const *argv[]) {
     int N;
     cin >> N;
-    int i = 1;
-    while (i * i <= N) {
-        cout << i * i << " ";
-        i++;
+
+    int n = 0;
+    int sum = pow(2, n);
+    while (sum <= N) {
+        cout << sum << " ";
+        n++;
+        sum = pow(2, n);
+
     }
 
     return 0;
 }
-
 

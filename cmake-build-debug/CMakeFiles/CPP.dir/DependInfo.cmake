@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" "/home/alex/CPP/cmake-build-debug/CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o"
+  "/home/alex/CPP/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" "/home/alex/CPP/cmake-build-debug/CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.1.cpp.o"
+  "CMakeFiles/CPP.dir/Введение_в_программирование_(Яндекс)/Цикл_while/1.5.14.cpp.o"
   "CPP.pdb"
   "CPP"
 )

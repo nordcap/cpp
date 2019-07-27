@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="CPP" targetName="CPP" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -10,59 +12,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b828e34-e86f-427f-881f-f4ea967a8dd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/customTargets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.13.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/C__.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/C__" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/C__.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/tempCodeRunnerFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPP.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPP" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPP.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPP.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Введение в программирование (Яндекс)/Целые числа/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/" />
@@ -76,13 +55,23 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp">
+        <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="924">
+              <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -109,18 +98,31 @@
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.9.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.10.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.cpp" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.11.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.12.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.13.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.14.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" />
         <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
         <option value="$PROJECT_DIR$/cmake-build-debug/Makefile" />
         <option value="$PROJECT_DIR$/cmake-build-debug/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.2.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.3.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.4.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.5.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.6.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.7.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.8.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.9.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.10.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.11.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.12.cpp" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.13.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp" />
       </list>
     </option>
   </component>
@@ -144,6 +146,22 @@
               <item name="CPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Введение в программирование (Яндекс)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPP" type="462c0819:PsiDirectoryNode" />
+              <item name="Введение в программирование (Яндекс)" type="462c0819:PsiDirectoryNode" />
+              <item name="Цикл while" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -155,8 +173,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CMake" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="settings.editor.selected.configurable" value="CompDBSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -180,8 +198,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="CPP" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="CPP">
+  <component name="RunManager" selected="CMake Application.Unnamed">
+    <configuration name="CPP" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="CPP" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="CPP" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -191,6 +214,10 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.Unnamed" />
+      <item itemvalue="CMake Application.CPP" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -211,16 +238,22 @@
       <workItem from="1563880083137" duration="2115000" />
       <workItem from="1563882209794" duration="377000" />
       <workItem from="1563882588502" duration="162000" />
+      <workItem from="1563882751964" duration="4008000" />
+      <workItem from="1563969856401" duration="4156000" />
+      <workItem from="1563987326228" duration="1209000" />
+      <workItem from="1564067292652" duration="2960000" />
+      <workItem from="1564144915665" duration="4281000" />
+      <workItem from="1564240837714" duration="3683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14426000" />
+    <option name="totallyTimeSpent" value="34723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1082" height="1925" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21373308" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2369439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -234,8 +267,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32924107" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.19021441" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32985157" />
-      <window_info anchor="bottom" id="CMake" order="12" visible="true" weight="0.32875207" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32985157" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3282023" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -293,13 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/1.4.11.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -341,27 +367,136 @@
     <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Условный оператор/cmake-build-debug/Makefile" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch..txt" />
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584" />
+        <state relative-caret-position="840">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CPP.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140" />
+        <state relative-caret-position="792">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#262#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/cmath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="437" selection-start-line="437" selection-end-line="437" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.6.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" selection-start-line="24" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.8.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" selection-start-line="31" selection-end-line="47" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.9.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.11.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.12.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.13.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="34" column="31" selection-start-line="26" selection-end-line="44" selection-end-column="29" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.1.cpp">
+    <entry file="file://$PROJECT_DIR$/Введение в программирование (Яндекс)/Цикл while/1.5.14.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="924">
+          <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
         </state>
       </provider>
     </entry>
